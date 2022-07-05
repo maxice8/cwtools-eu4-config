@@ -702,3 +702,4 @@ alias[modifier:is_marine_modifier] = bool
 alias[modifier:is_banner_modifier] = bool
 alias[modifier:is_streltsy_modifier] = bool
 alias[modifier:is_cossack_modifier] = bool
+alias[modifier:relation_with_heathens] = int
