@@ -3635,3 +3635,7 @@ alias[effect:set_defender_of_the_faith] = {
 ## scope = province
 ###Spawns a cawa infantry unit in the current province scope for the defined country scope. Uses the currently selected infantry unit.
 alias[effect:cawa_infantry] = scope[country]
+
+## scope = province
+###Spawns a marine infantry unit in the current province scope for the defined country scope. Uses the currently selected infantry unit.
+alias[effect:marine_infantry] = scope[country]
