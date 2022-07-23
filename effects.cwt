@@ -2091,6 +2091,7 @@ alias[effect:kill_heir] = {}
 ## scope = country
 ###Kills the heir of the current scope and auto prevents creating new heir. Displays heir death message.
 alias[effect:kill_heir] = {
+	## cardinality = 0..1
 	allow_new_heir = no
 }
 
