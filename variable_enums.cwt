@@ -90,6 +90,7 @@ enums = {
 		years_of_income
 		modifier:pronoia_amount_check_influence
 		modifier:num_of_pronoiars
+		army_tradition
 	}
 	enum[culture_new_variables] = {
 		new_variable:consort_culture
